@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@aws-amplify/ui-react": "^0.2.24",
+    "aws-amplify": "^3.3.4",
     "date-fns": "^2.16.1",
     "gray-matter": "^4.0.2",
     "next": "9.5.3",
